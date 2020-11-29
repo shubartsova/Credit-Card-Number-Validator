@@ -16,7 +16,7 @@
 * код.md
 * ввести тестовые данные в 4ую строку кода: String number = "6304746167766516"
 
- В качестве тестовых данных использовались [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html) :
+ В качестве тестовых данных использовались номера карт с сайта [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html) :
 
 
 ### Ожидаемый результат, соответствует фактическому:
